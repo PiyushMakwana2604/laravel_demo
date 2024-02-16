@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 18" width="22" height="18">
+	<title>50</title>
+	<defs>
+		<image width="22" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAASCAYAAABfJS4tAAAAmUlEQVQ4T+2UyxGDMAxEd0tKB5RACaGy0AmUkFLSwTLK2Ax4FNv8TsR3P62eZBMXHV7Exc3AkloAI8lPqnS3CklPAC8Ab5KPU8ALqPE6kv1hcA3UirgqJFkCc7dKUgt1wZIaAENobW5zCzSXOA7m6zAUsUH9dFrtOEkY77mD8l5vdt22tr8sUNzjAIe3Url/pgje+0n9wbO5CXb8PBPVsvmsAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="50. Payment ">
+		<use id="Path 11295" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>

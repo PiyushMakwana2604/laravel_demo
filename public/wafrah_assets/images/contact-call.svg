@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <filter id="Ellipse_4791" x="0" y="0" width="63" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_38120" data-name="Group 38120" transform="translate(-72 -310)">
+    <g id="Group_38121" data-name="Group 38121">
+      <g transform="matrix(1, 0, 0, 1, 72, 310)" filter="url(#Ellipse_4791)">
+        <g id="Ellipse_4791-2" data-name="Ellipse 4791" transform="translate(9 6)" fill="#fff" stroke="#17005d" stroke-width="1">
+          <circle cx="22.5" cy="22.5" r="22.5" stroke="none"/>
+          <circle cx="22.5" cy="22.5" r="22" fill="none"/>
+        </g>
+      </g>
+      <g id="phone-call_1_" data-name="phone-call (1)" transform="translate(91.461 327)">
+        <g id="Group_38118" data-name="Group 38118" transform="translate(0.539 0)">
+          <path id="Path_44031" data-name="Path 44031" d="M22.9,16.889,19.69,13.678a2.136,2.136,0,0,0-3.556.8,2.186,2.186,0,0,1-2.523,1.376C11.317,15.284,8.22,12.3,7.647,9.893A2.079,2.079,0,0,1,9.023,7.369a2.136,2.136,0,0,0,.8-3.556L6.615.6a2.291,2.291,0,0,0-3.1,0L1.338,2.781c-2.179,2.294.229,8.373,5.62,13.764s11.47,7.914,13.764,5.62L22.9,19.986A2.291,2.291,0,0,0,22.9,16.889Z" transform="translate(-0.539 0)" fill="#17005d"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

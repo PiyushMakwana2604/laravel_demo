@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="68" height="68" viewBox="0 0 68 68">
+  <defs>
+    <filter id="Ellipse_4454" x="0" y="0" width="68" height="68" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.051"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_10055" data-name="Group 10055" transform="translate(-253 -264)">
+    <g transform="matrix(1, 0, 0, 1, 253, 264)" filter="url(#Ellipse_4454)">
+      <g id="Ellipse_4454-2" data-name="Ellipse 4454" transform="translate(9 8)" fill="#17005d" stroke="#fff" stroke-width="1">
+        <circle cx="25" cy="25" r="25" stroke="none"/>
+        <circle cx="25" cy="25" r="24.5" fill="none"/>
+      </g>
+    </g>
+    <g id="blog" transform="translate(276 286)">
+      <g id="Group_28909" data-name="Group 28909">
+        <g id="Group_28908" data-name="Group 28908">
+          <path id="Path_43989" data-name="Path 43989" d="M20.9,0H2.014A2.016,2.016,0,0,0,0,2.014v3.4H22.91v-3.4A2.016,2.016,0,0,0,20.9,0ZM3.356,4.027a.671.671,0,1,1,.671-.671A.671.671,0,0,1,3.356,4.027Zm2.685,0a.671.671,0,1,1,.671-.671A.671.671,0,0,1,6.041,4.027Zm2.685,0A.671.671,0,1,1,9.4,3.356.671.671,0,0,1,8.726,4.027Z" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_28911" data-name="Group 28911" transform="translate(0 6.757)">
+        <g id="Group_28910" data-name="Group 28910">
+          <path id="Path_43990" data-name="Path 43990" d="M0,151v14.14a2.016,2.016,0,0,0,2.014,2.014H20.9a2.016,2.016,0,0,0,2.014-2.014V151Zm2.685,2.058a.671.671,0,0,1,.671-.671h6.712a.671.671,0,0,1,.671.671v5.37a.671.671,0,0,1-.671.671H3.356a.671.671,0,0,1-.671-.671Zm16.869,11.41H3.356a.671.671,0,1,1,0-1.342h16.2a.671.671,0,1,1,0,1.342Zm0-2.685H3.356a.671.671,0,1,1,0-1.342h16.2a.671.671,0,1,1,0,1.342Zm0-2.685h-6.8a.671.671,0,1,1,0-1.342h6.8a.671.671,0,1,1,0,1.342Zm0-2.685h-6.8a.671.671,0,1,1,0-1.342h6.8a.671.671,0,1,1,0,1.342Z" transform="translate(0 -151)" fill="#fff"/>
+        </g>
+      </g>
+      <g id="Group_28913" data-name="Group 28913" transform="translate(4.262 9.59)">
+        <g id="Group_28912" data-name="Group 28912" transform="translate(0 0)">
+          <rect id="Rectangle_17399" data-name="Rectangle 17399" width="6" height="3" transform="translate(-0.307 0.365)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

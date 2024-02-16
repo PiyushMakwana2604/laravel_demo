@@ -1,0 +1,12 @@
+<svg version="1.2" baseProfile="tiny-ps" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18" width="18" height="18">
+	<title>49</title>
+	<defs>
+		<image width="18" height="18" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAACFElEQVQ4T5WUX24SURSHvzNA4UHSaZD2UVwB0xUUVlD60EQbiLiCugNhB7iC1gDVxIeyA8cVMKxAXgsaMa2JdeBec4HbDjiQOE+Te+/5zu/8FWK+PLW6oI8F8YDC4on2FRKEhO8mfByum0n0IM+Z55C4NsYK9dPBCTTa1+gCiOcgRfNeQSvktjmhN7H2DyCjwoELA1Co+nc+9Na9ulTcHbKXAscaHfzhrmxhc9BSSV+hByHTSpz0KDTHy0qS5LUJ94ZO2dzNQQdUhwrthvwqROXG5c+e7VNtCPJWwesx7UuxIU2ZnsSFsw2WpxoI8mxEe0/2qfU0qjSm624zMncuLwrRsHPU6sl5XmeHYsICGd7QLm0DWaOocpdTL02mr9FNOaCmzc+ITiMKinp/9GyKcVeK5tHaz0EK9X5Mt25BOc5aDolXIb/LCTLeQv6/ENMOabI/rCJfoXbHdA8tyEhOseODox1w4yDm7VOqpQTy2VRO8lRbDnJ+z+1eVPIjTIbr4USVJ0mc3xM+F5OLNKmvGt0b0TlZzdOpB+EwrreMXYpU34GBKdSysxeq/qeXDqj5wJFRY1piDlrM0BNfkOKMWeMbV81NrbCIIHEBTsl29cOIWFiarBnUI4UKFKo1YzqY8CkwjiBVTJKpCJjhdqOQFZBVsNxFLUF2N6j6opi9GXMVRO9X9tH6bhKcij3TmOqF/qbN8BdY4wDxfqcNuwAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="49. Subscription Details">
+		<use id="Group 27345" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+	</g>
+</svg>
