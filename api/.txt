@@ -1,0 +1,10 @@
+bundel id given by ios developer
+alert key is using by ios developer
+gcm is use for android
+apn ===> got 3 items
+    1)KEY_ID
+    2)TEAM_ID
+    3)BUNDEL_ID
+ios developer sent p8 file
+AND android developer sent 
+production :true play stroe ma upload thay tyare true karvu
